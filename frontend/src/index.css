@@ -25,10 +25,10 @@ a {
   100% {
     opacity: 1;
   }
-  from {
+  /* from {
     top: 1vw;
   }
   to {
     top: 185px;
-  }
+  } */
 }
