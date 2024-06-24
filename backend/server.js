@@ -1,5 +1,6 @@
 import express from "express";
 import cors from "cors";
+import { connectionDB } from "./config/db.js";
 
 //app config
 const app = express();
@@ -13,6 +14,9 @@ app.use(cors());
 app.get("/", (req, res) => {
   res.send("API Working");
 });
+
+//db connection
+connectionDB();
 
 //run express server on port
 app.listen(port, () => {
