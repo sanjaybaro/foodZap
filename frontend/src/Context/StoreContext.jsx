@@ -7,6 +7,7 @@ export const StoreContext = createContext(null);
 
 const StoreContextProvider = ({ children }) => {
   const [cartItems, setCartItems] = useState({});
+  const [token, setToken] = useState("");
 
   const addToCart = (itemID) => {
     if (!cartItems[itemID]) {
@@ -37,6 +38,13 @@ const StoreContextProvider = ({ children }) => {
     return totalAmount;
   };
 
+  //page will remain same with token even after reloding below logic
+  useEffect(() => {
+    if (localStorage.getItem("token")) {
+      setToken(localStorage.getItem("token"));
+    }
+  }, []);
+
   const contextValue = {
     food_list,
     cartItems,
@@ -44,6 +52,8 @@ const StoreContextProvider = ({ children }) => {
     addToCart,
     removeFromCart,
     getTotalCartAmount,
+    token,
+    setToken,
   };
 
   return (
