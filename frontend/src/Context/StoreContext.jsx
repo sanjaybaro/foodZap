@@ -1,13 +1,15 @@
+import axios from "axios";
 import { useState } from "react";
 import { useEffect } from "react";
 import { createContext } from "react";
-import { food_list } from "../assets/assets";
+import { url } from "../utils/url";
 
 export const StoreContext = createContext(null);
 
 const StoreContextProvider = ({ children }) => {
   const [cartItems, setCartItems] = useState({});
   const [token, setToken] = useState("");
+  const [food_list, setFoodList] = useState([]);
 
   const addToCart = (itemID) => {
     if (!cartItems[itemID]) {
@@ -38,11 +40,21 @@ const StoreContextProvider = ({ children }) => {
     return totalAmount;
   };
 
+  //fetchfoodlist from backend
+  const fetchFoodList = async () => {
+    const response = await axios.get(url + "/food/list");
+    setFoodList(response.data.data);
+  };
+
   //page will remain same with token even after reloding below logic
   useEffect(() => {
-    if (localStorage.getItem("token")) {
-      setToken(localStorage.getItem("token"));
+    async function loadData() {
+      await fetchFoodList();
+      if (localStorage.getItem("token")) {
+        setToken(localStorage.getItem("token"));
+      }
     }
+    loadData();
   }, []);
 
   const contextValue = {
