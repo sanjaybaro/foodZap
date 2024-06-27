@@ -3,9 +3,9 @@ import { assets } from "../../assets/assets";
 import "./Add.css";
 import axios from "axios";
 import { toast } from "react-toastify";
+import { url } from "../../utils/url";
 
 const Add = () => {
-  const url = "http://localhost:4001";
   const [image, setImage] = useState(false);
   const [data, setData] = useState({
     name: "",
@@ -49,7 +49,7 @@ const Add = () => {
         setImage(false);
         toast.success(response.data.message);
       } else {
-        toast.error(response.data.message);
+        toast.error("Error adding product");
         console.error("Error adding product:", response.data.message);
       }
     } catch (error) {
