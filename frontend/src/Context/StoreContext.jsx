@@ -11,18 +11,28 @@ const StoreContextProvider = ({ children }) => {
   const [token, setToken] = useState("");
   const [food_list, setFoodList] = useState([]);
 
-  const addToCart = (itemID) => {
-    if (!cartItems[itemID]) {
+  const addToCart = async (itemId) => {
+    if (!cartItems[itemId]) {
       //if that id not avilable create new one
-      setCartItems((prev) => ({ ...prev, [itemID]: 1 }));
+      setCartItems((prev) => ({ ...prev, [itemId]: 1 }));
     } else {
       //if available add prev +1
-      setCartItems((prev) => ({ ...prev, [itemID]: prev[itemID] + 1 }));
+      setCartItems((prev) => ({ ...prev, [itemId]: prev[itemId] + 1 }));
+    }
+    if (token) {
+      await axios.post(url + "/cart/add", { itemId }, { headers: { token } });
     }
   };
 
-  const removeFromCart = (itemID) => {
-    setCartItems((prev) => ({ ...prev, [itemID]: prev[itemID] - 1 }));
+  const removeFromCart = async (itemId) => {
+    setCartItems((prev) => ({ ...prev, [itemId]: prev[itemId] - 1 }));
+    if (token) {
+      await axios.post(
+        url + "/cart/remove",
+        { itemId },
+        { headers: { token } }
+      );
+    }
   };
 
   // useEffect(() => {
@@ -46,12 +56,23 @@ const StoreContextProvider = ({ children }) => {
     setFoodList(response.data.data);
   };
 
+  //load the cart data even pasge was refresh
+  const loadCartData = async (token) => {
+    const response = await axios.post(
+      url + "/cart/get",
+      {},
+      { headers: { token } }
+    );
+    setCartItems(response.data.cartData);
+  };
+
   //page will remain same with token even after reloding below logic
   useEffect(() => {
     async function loadData() {
       await fetchFoodList();
       if (localStorage.getItem("token")) {
         setToken(localStorage.getItem("token"));
+        await loadCartData(localStorage.getItem("token"));
       }
     }
     loadData();
