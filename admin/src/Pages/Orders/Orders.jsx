@@ -37,12 +37,28 @@ const Orders = () => {
                   // console.log(index);
                   // console.log(item);
 
-                  // if (index === order.items.length - 1) {
-                  //   return item.name + " x " + item.quantity;
-                  // } else {
-                  //   return item.name + " x " + item.quantity + ", ";
-                  // }
+                  if (index === order.items.length - 1) {
+                    return item.name + " x " + item.quantity;
+                  } else {
+                    return item.name + " x " + item.quantity + ", ";
+                  }
                 })}
+              </p>
+              <p className="order-item-name">
+                {order.address.firstName + " " + order.address.lastName}
+                <div className="order-item-address">
+                  <p>{order.address.street + ", "}</p>
+                  <p>
+                    {order.address.city +
+                      ", " +
+                      order.address.state +
+                      ", " +
+                      order.address.country +
+                      ", " +
+                      order.address.zipcode}
+                  </p>
+                </div>
+                <p className="order-item-phone"></p>
               </p>
             </div>
           </div>
