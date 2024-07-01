@@ -58,9 +58,16 @@ const Orders = () => {
                       order.address.zipcode}
                   </p>
                 </div>
-                <p className="order-item-phone"></p>
+                <p className="order-item-phone">{order.address.phone}</p>
               </p>
             </div>
+            <p>Items : {order.items.length}</p>
+            <p>${order.amount}</p>
+            <select>
+              <option value="Food Processing">Food Processing</option>
+              <option value="Out for delivery">Out for delivery</option>
+              <option value="Delivered">Delivered</option>
+            </select>
           </div>
         ))}
       </div>
