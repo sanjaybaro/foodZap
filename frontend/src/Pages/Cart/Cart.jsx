@@ -4,21 +4,13 @@ import "./Cart.css";
 import { StoreContext } from "../../Context/StoreContext";
 import { useNavigate } from "react-router-dom";
 import { url } from "../../utils/url";
-import { ToastContainer, toast } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
 
 const Cart = () => {
   const { cartItems, food_list, removeFromCart, getTotalCartAmount } =
     useContext(StoreContext);
+  // console.log(cartItems);
 
   const navigate = useNavigate();
-
-  const notifylogin = () => {
-    toast("Please sign in first!");
-    setTimeout(() => {
-      navigate("/order");
-    }, 3000); // wait for 2 seconds before navigating
-  };
 
   return (
     <div className="cart">
@@ -36,8 +28,11 @@ const Cart = () => {
         {food_list.map((item, index) => {
           if (cartItems[item._id] > 0) {
             return (
-              <div key={item._id}>
-                <div className="cart-items-title cart-items-item">
+              <div>
+                <div
+                  key={item._id}
+                  className="cart-items-title cart-items-item"
+                >
                   <img src={url + "/images/" + item.image} alt="" />
                   <p>{item.name}</p>
                   <p>${item.price}</p>
@@ -74,7 +69,9 @@ const Cart = () => {
               </b>
             </div>
           </div>
-          <button onClick={notifylogin}>PROCEED TO CHECKOUT</button>
+          <button onClick={() => navigate("/order")}>
+            PROCEED TO CHECKOUT
+          </button>
         </div>
         <div className="cart-promocode">
           <div>
@@ -86,7 +83,6 @@ const Cart = () => {
           </div>
         </div>
       </div>
-      <ToastContainer />
     </div>
   );
 };
