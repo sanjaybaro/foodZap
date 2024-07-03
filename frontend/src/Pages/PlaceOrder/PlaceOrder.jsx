@@ -177,7 +177,8 @@ const PlaceOrder = () => {
               </b>
             </div>
           </div>
-          <button type="submit">PROCEED TO PAYMENT</button>
+          <p style={{ color: "tomato" }}>Cash on Delivery (Not Availabe)</p>
+          <button type="submit">Credit Card / Debit Card</button>
         </div>
       </div>
     </form>
