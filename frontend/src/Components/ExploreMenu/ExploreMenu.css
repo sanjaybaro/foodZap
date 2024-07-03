@@ -30,6 +30,10 @@
   border-radius: 50%;
   transition: 0.2s;
 }
+.explore-menu-list-item img:hover {
+  transform: translateY(10px) rotate(10deg) scale(1);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
 .explore-menu-list-item p {
   margin-top: 10px;
   color: #747474;
