@@ -9,11 +9,14 @@ import Home from "./Pages/Home/Home";
 import Myorders from "./Pages/MyOrders/Myorders";
 import PlaceOrder from "./Pages/PlaceOrder/PlaceOrder";
 import Verify from "./Pages/Verify/Verify";
+import { ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 const App = () => {
   const [showLogin, setShowLogin] = useState(false);
   return (
     <>
+    <ToastContainer/>
       {showLogin ? <Login setShowLogin={setShowLogin} /> : <></>}
       <div className="app">
         <Navbar setShowLogin={setShowLogin} />
