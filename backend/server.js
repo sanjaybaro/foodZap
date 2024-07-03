@@ -9,7 +9,7 @@ import orderRouter from "./routes/orderRoute.js";
 
 //app config
 const app = express();
-const port = 4001;
+const port = process.env.PORT || 4001;
 
 //middleware
 app.use(express.json());
@@ -28,7 +28,7 @@ app.use("/food", foodRouter);
 app.use("/images", express.static("uploads"));
 app.use("/user", userRouter);
 app.use("/cart", cartRouter);
-app.use("/order",orderRouter)
+app.use("/order", orderRouter);
 
 //run express server on port
 app.listen(port, () => {
