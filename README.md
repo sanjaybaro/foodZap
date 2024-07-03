@@ -11,13 +11,13 @@ FoodZap is a comprehensive full-stack web application designed to revolutionize 
 <div align="center">
   <a href="https://foodzap.onrender.com/" target="_blank">Visit foodZap.com</a>
 </div>
-----------------------------------------------------------------------------------------
+
 ### Backend Deployed Link
 
 <div align="center">
-  <a href="hhttps://foodzap-backend.onrender.com/" target="_blank">Visit foodZap_Backend.com</a>
+  <a href="https://foodzap-backend.onrender.com/" target="_blank">Visit foodZap_Backend.com</a>
 </div>
-------------------------------------------------------------------------------------------
+
 ### Admin Panel Deployed Link
 
 <div align="center">
