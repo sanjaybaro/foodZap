@@ -1,1 +1,1 @@
-export const url = "http://localhost:4001";
+export const url = "https://foodzap-backend.onrender.com";
