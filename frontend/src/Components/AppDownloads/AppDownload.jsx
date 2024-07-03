@@ -1,8 +1,8 @@
 import React from "react";
-import "./Appdownload.css";
+import "./AppDownload.css";
 import { assets } from "../../assets/assets";
 
-const APpdownload = () => {
+const AppDownload = () => {
   return (
     <div className="app-download" id="app-download">
       <p>
@@ -16,4 +16,4 @@ const APpdownload = () => {
   );
 };
 
-export default APpdownload;
+export default AppDownload;
