@@ -1,6 +1,6 @@
 # foodZap
 <div align="center"> 
-  <img src="./foodZap/blob/main/frontend/src/assets/logo1.png" alt="foodZap.com Logo">
+  <img src="./frontend/src/assets/logo1.png" alt="foodZap.com Logo">
 </div>
 
 
