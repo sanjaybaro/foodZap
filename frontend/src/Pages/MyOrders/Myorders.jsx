@@ -7,7 +7,6 @@ import { assets } from "../../assets/assets";
 import { StoreContext } from "../../Context/StoreContext";
 import { url } from "../../utils/url";
 import "./Myorders.css";
-import { toast } from "react-toastify";
 
 const Myorders = () => {
   const { token } = useContext(StoreContext);
@@ -19,12 +18,7 @@ const Myorders = () => {
       {},
       { headers: { token } }
     );
-    if (response.data.success) {
-      setData(response.data.data);
-      toast.success("Order Placed");
-    } else {
-      toast.error("Order Not Placed!");
-    }
+    setData(response.data.data);
 
     // console.log(response.data.data);
   };
