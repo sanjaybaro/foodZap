@@ -1,4 +1,4 @@
-# foodZap
+![iPhone-13-PRO-MAX-foodzap onrender com (2)](https://github.com/sanjaybaro/foodZap/assets/123923491/d2d23150-978f-4593-9bd8-f5188a2e619f)# foodZap
 <div align="center"> 
   <img src="./frontend/src/assets/logo1.png" alt="foodZap.com Logo">
 </div>
@@ -117,6 +117,16 @@ foodZap is a Responsive Website for all device screen sizes
 | Start Pay Page | Fail / Complete page | Sucess pay |
 |:-------------------:|:-----:|:------:|
 | ![Screenshot (182)](https://github.com/sanjaybaro/foodZap/assets/123923491/45fdca25-40f7-4302-9043-af8ee15f83cf) | ![Screenshot (183)](https://github.com/sanjaybaro/foodZap/assets/123923491/4b1ba847-6bca-40d3-9316-b0417df3226e) | ![Screenshot (184)](https://github.com/sanjaybaro/foodZap/assets/123923491/879b9bdb-71f5-4264-9abd-9e2289c8f1a1)
+
+### Mobile / Android / ios UI
+
+#### Frontend Side Views
+**HomePage**
+![iPhone-13-PRO-MAX-foodzap onrender com (1)](https://github.com/sanjaybaro/foodZap/assets/123923491/09cac939-d664-46ea-a4e1-c043666ae55f)
+
+| Explore Menu | Food Items | Login | Signup |
+|:-------------------:|:-----:|:------:|:------:|
+| ![iPhone-13-PRO-MAX-foodzap onrender com (2)](https://github.com/sanjaybaro/foodZap/assets/123923491/d8b9b030-998f-4d7f-924d-99df69da8ff2) | ![iPhone-13-PRO-MAX-foodzap onrender com (3)](https://github.com/sanjaybaro/foodZap/assets/123923491/634fd1d9-109e-42e9-b735-ab04b739187b) | ![iPhone-13-PRO-MAX-foodzap onrender com (6)](https://github.com/sanjaybaro/foodZap/assets/123923491/3849ead4-ea63-4d1e-9381-4a38038c124c) | ![iPhone-13-PRO-MAX-foodzap onrender com (7)](https://github.com/sanjaybaro/foodZap/assets/123923491/e2958b61-4645-4d2a-ae84-0e433c38ed58)
 
 
 
