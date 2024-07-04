@@ -47,10 +47,17 @@ FoodZap is a comprehensive full-stack web application designed to revolutionize 
 
 ## Features
 
-## Features
-
-| Feature                            | Description                                                                                                                                                                                                         |
+|User Feature                            | Description                                                                                                                                                                                                         |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **User Registration and Login**    | Users can easily register and log in to access personalized features and buy a product.                                                                                                                             |
-| **Admin Registration and Login**   | Admin can register and log in to their accounts to manage their products, orders and view sales details details.                                                                                                    |
-| **Product Buying**                 | Users can browse through various product categories and select preferred product fo the users house.                                                                                                                |
+| **User Registration and Login**    | Users can easily register and log in to Order food Item.                                                                                                                             |
+| **Explore Menu**   | User can explore the wide range of food categories with each categories have different food item.                                                                                                    |
+| **Cart Page**                 | Users can Manage Order in the cart page or item can be removed also from cart.                                                                                                                |
+| **Order Page**          | User can order by filling delivery information in a form and can make payment.
+
+| **My Order Page**       | User can see the all item Order for that particular user that logged in and also Track the Status of the food Item.
+
+| **Logout Function**  | Logout functionality also available for each user.
+
+| **Payment Gateway**  | Stripe payment gateway for credit / debit card payment with 3d auth secure. use the dummy card details from this link : <a href="https://docs.stripe.com/testing#regulatory-cards" target="_blank">Stripe Dummy Card</a> .
+
+
