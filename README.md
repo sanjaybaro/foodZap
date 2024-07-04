@@ -114,7 +114,7 @@ foodZap is a Responsive Website for all device screen sizes
 | ![Macbook-Air-foodzap-admin onrender com](https://github.com/sanjaybaro/foodZap/assets/123923491/32e6f0bb-6e66-4303-8e38-698e3f33e736) | ![Macbook-Air-foodzap-admin onrender com (1)](https://github.com/sanjaybaro/foodZap/assets/123923491/63cdade5-3841-4bba-9876-6f9878dbda78) | ![Macbook-Air-foodzap-admin onrender com (2)](https://github.com/sanjaybaro/foodZap/assets/123923491/f51a4024-f360-4b0a-8c57-9bb66e558e97)
 
 #### Stripe Payment gateway
-| Stat Pay Page | Fail / Complete page | Sucess pay |
+| Start Pay Page | Fail / Complete page | Sucess pay |
 |:-------------------:|:-----:|:------:|
 | ![Screenshot (182)](https://github.com/sanjaybaro/foodZap/assets/123923491/45fdca25-40f7-4302-9043-af8ee15f83cf) | ![Screenshot (183)](https://github.com/sanjaybaro/foodZap/assets/123923491/4b1ba847-6bca-40d3-9316-b0417df3226e) | ![Screenshot (184)](https://github.com/sanjaybaro/foodZap/assets/123923491/879b9bdb-71f5-4264-9abd-9e2289c8f1a1)
 
