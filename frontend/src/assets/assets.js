@@ -1,5 +1,4 @@
 import basket_icon from "./basket_icon.png";
-import logo from "./logo.png";
 import logo1 from "./logo1.png";
 import header_img from "./header_img.png";
 import header_img1 from "./pic1.jpg";
@@ -63,7 +62,6 @@ import logout_icon from "./logout_icon.png";
 import parcel_icon from "./parcel_icon.png";
 
 export const assets = {
-  logo,
   logo1,
   basket_icon,
   header_img,
