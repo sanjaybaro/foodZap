@@ -1,4 +1,4 @@
-![Galaxy-Tab-S7-foodzap onrender com (3)](https://github.com/sanjaybaro/foodZap/assets/123923491/087186e3-a9c6-473d-85a1-4c2d5934117a)![Galaxy-Tab-S7-foodzap onrender com (3)](https://github.com/sanjaybaro/foodZap/assets/123923491/6f764a99-6843-4ca8-963c-ae0649b94af9)# foodZap. - food ordering website
+# foodZap. - food ordering website
 <div align="center"> 
   <img src="./frontend/src/assets/logo1.png" alt="foodZap.com Logo">
 </div>
@@ -141,11 +141,11 @@ foodZap is a Responsive Website for all device screen sizes
 ### Tab / iPad UI
 
 #### Frontend + Admin Side Views
-| HomePage | Explore Menu | Food Items | Login | Signup | Footer | Cart | Place order | My Orders | Add Items | List Items | Orders |
-|:--------:|:------------:|:----------:|:-----:|:------:|:------:|:----:|:-----------:|:---------:|:---------:|:----------:|:------:|
-| ![Galaxy-Tab-S7-foodzap onrender com](https://github.com/sanjaybaro/foodZap/assets/123923491/9f49f439-fe0a-46f0-a291-503479cbca9d)|![Galaxy-Tab-S7-foodzap onrender com (1)](https://github.com/sanjaybaro/foodZap/assets/123923491/5a135b55-2bc7-4e91-88cd-898db1fab643) | ![Galaxy-Tab-S7-foodzap onrender com (2)](https://github.com/sanjaybaro/foodZap/assets/123923491/828904f6-56d6-4800-aa42-a86a5a80d087) | ![Galaxy-Tab-S7-foodzap onrender com (4)](https://github.com/sanjaybaro/foodZap/assets/123923491/13eb21ee-3023-40f2-af7d-1ee831a34e1d) | ![Galaxy-Tab-S7-foodzap onrender com (5)](https://github.com/sanjaybaro/foodZap/assets/123923491/5117ef76-f606-4244-ad7e-b4c9536ef716) | ![Galaxy-Tab-S7-foodzap onrender com (3)](https://github.com/sanjaybaro/foodZap/assets/123923491/c35560c2-bf54-4449-a7a0-bcab33be43dd) | ![Galaxy-Tab-S7-foodzap onrender com (6)](https://github.com/sanjaybaro/foodZap/assets/123923491/5b4592ea-eb83-42c4-a2a3-631490efbc10) | ![Galaxy-Tab-S7-foodzap onrender com (7)](https://github.com/sanjaybaro/foodZap/assets/123923491/37e6f2e6-5d5a-4637-b4fe-52857cc4c14e) | ![Galaxy-Tab-S7-foodzap onrender com (8)](https://github.com/sanjaybaro/foodZap/assets/123923491/f6e49d9e-1fc9-4bd6-b0f0-e0f61aa1135a) | ![Galaxy-Tab-S7-foodzap-admin onrender com (3)](https://github.com/sanjaybaro/foodZap/assets/123923491/2d12123e-7838-4ffd-8f86-b332f7bd444b) | ![Galaxy-Tab-S7-foodzap-admin onrender com (5)](https://github.com/sanjaybaro/foodZap/assets/123923491/c931492f-5972-4f2e-bc00-87a0742b066c) | ![Galaxy-Tab-S7-foodzap-admin onrender com (6)](https://github.com/sanjaybaro/foodZap/assets/123923491/a6aa816b-eee2-4b8c-b765-11f21e7a1671)
+| HomePage | Explore Menu | Food Items | Login | Signup | Footer |
+|:--------:|:------------:|:----------:|:-----:|:------:|:------:|
+| ![Galaxy-Tab-S7-foodzap onrender com](https://github.com/sanjaybaro/foodZap/assets/123923491/9f49f439-fe0a-46f0-a291-503479cbca9d)|![Galaxy-Tab-S7-foodzap onrender com (1)](https://github.com/sanjaybaro/foodZap/assets/123923491/5a135b55-2bc7-4e91-88cd-898db1fab643) | ![Galaxy-Tab-S7-foodzap onrender com (2)](https://github.com/sanjaybaro/foodZap/assets/123923491/828904f6-56d6-4800-aa42-a86a5a80d087) | ![Galaxy-Tab-S7-foodzap onrender com (4)](https://github.com/sanjaybaro/foodZap/assets/123923491/13eb21ee-3023-40f2-af7d-1ee831a34e1d) | ![Galaxy-Tab-S7-foodzap onrender com (5)](https://github.com/sanjaybaro/foodZap/assets/123923491/5117ef76-f606-4244-ad7e-b4c9536ef716) | ![Galaxy-Tab-S7-foodzap onrender com (3)](https://github.com/sanjaybaro/foodZap/assets/123923491/c35560c2-bf54-4449-a7a0-bcab33be43dd) 
 
-
-
-
+|Cart | Place order | My Orders | Add Items | List Items | Orders |
+|:---:|:-----------:|:---------:|:---------:|:----------:|:-----:| 
+|![Galaxy-Tab-S7-foodzap onrender com (6)](https://github.com/sanjaybaro/foodZap/assets/123923491/5b4592ea-eb83-42c4-a2a3-631490efbc10) | ![Galaxy-Tab-S7-foodzap onrender com (7)](https://github.com/sanjaybaro/foodZap/assets/123923491/37e6f2e6-5d5a-4637-b4fe-52857cc4c14e) | ![Galaxy-Tab-S7-foodzap onrender com (8)](https://github.com/sanjaybaro/foodZap/assets/123923491/f6e49d9e-1fc9-4bd6-b0f0-e0f61aa1135a) | ![Galaxy-Tab-S7-foodzap-admin onrender com (3)](https://github.com/sanjaybaro/foodZap/assets/123923491/2d12123e-7838-4ffd-8f86-b332f7bd444b) | ![Galaxy-Tab-S7-foodzap-admin onrender com (5)](https://github.com/sanjaybaro/foodZap/assets/123923491/c931492f-5972-4f2e-bc00-87a0742b066c) | ![Galaxy-Tab-S7-foodzap-admin onrender com (6)](https://github.com/sanjaybaro/foodZap/assets/123923491/a6aa816b-eee2-4b8c-b765-11f21e7a1671)
 
