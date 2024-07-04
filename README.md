@@ -55,7 +55,7 @@ FoodZap is a comprehensive full-stack web application designed to revolutionize 
 | **Order Page**                     | User can order by filling delivery information in a form and can make payment.                          |
 | **My Order Page**                  | User can see the all item Order for that particular user that logged in and also Track the Status of the food Item.|
 | **Logout Function**                | Logout functionality also available for each user.|
-| **Payment Gateway**                | Stripe payment gateway for credit / debit card payment with 3d auth secure. use the dummy card details from this link (also user can use this dummy card details "4000002500003155" : <a href="https://docs.stripe.com/testing#regulatory-cards" target="_blank">Stripe Dummy Card</a> .|
+| **Payment Gateway**                | Stripe payment gateway for credit / debit card payment with 3d auth secure. use the dummy card details from this link (also user can use this dummy card details for quick "4000002500003155"):<a href="https://docs.stripe.com/testing#regulatory-cards" target="_blank">Stripe Dummy Card</a> .|
                                      
 
 
