@@ -63,7 +63,7 @@ FoodZap is a comprehensive full-stack web application designed to revolutionize 
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------|
 | **Add Items Page**    | Admin can add food items with food details inlcuding category & image upload via multer logic which also reflected in Databasse.                                                |
 | **List Items Page**                   | Admin can see the list of food items added and also can be removed from the list items which also reflected in Databasse.       |                |
-| **Order Page**                      | Admin can see the user order details along with items, address, price and qunatity also admin can manage the status of order.                          |
+| **Order Page**                      | Admin can see the user order details along with items, address, price and quantity also admin can manage the status of order.                          |
 | **Status Manage**                     | Admin can manage the status of order eg: Food Processing, Out for Delivery, Delivered. which also reflects in frontend page.                          |
 
 
