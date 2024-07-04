@@ -1,1 +1,1 @@
-export const frontend_url = "http://localhost:5174"; //frontend url not admin
+export const frontend_url = "https://foodzap.onrender.com"; //frontend url not admin
