@@ -149,3 +149,6 @@ foodZap is a Responsive Website for all device screen sizes
 |:---:|:-----------:|:---------:|:---------:|:----------:|:-----:| 
 |![Galaxy-Tab-S7-foodzap onrender com (6)](https://github.com/sanjaybaro/foodZap/assets/123923491/5b4592ea-eb83-42c4-a2a3-631490efbc10) | ![Galaxy-Tab-S7-foodzap onrender com (7)](https://github.com/sanjaybaro/foodZap/assets/123923491/37e6f2e6-5d5a-4637-b4fe-52857cc4c14e) | ![Galaxy-Tab-S7-foodzap onrender com (8)](https://github.com/sanjaybaro/foodZap/assets/123923491/f6e49d9e-1fc9-4bd6-b0f0-e0f61aa1135a) | ![Galaxy-Tab-S7-foodzap-admin onrender com (3)](https://github.com/sanjaybaro/foodZap/assets/123923491/2d12123e-7838-4ffd-8f86-b332f7bd444b) | ![Galaxy-Tab-S7-foodzap-admin onrender com (5)](https://github.com/sanjaybaro/foodZap/assets/123923491/c931492f-5972-4f2e-bc00-87a0742b066c) | ![Galaxy-Tab-S7-foodzap-admin onrender com (6)](https://github.com/sanjaybaro/foodZap/assets/123923491/a6aa816b-eee2-4b8c-b765-11f21e7a1671)
 
+### 🤝 Connect with me
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sanjaybaro.github.io)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-baro/)
