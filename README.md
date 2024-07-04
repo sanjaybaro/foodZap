@@ -91,6 +91,7 @@ foodZap is a Responsive Website for all device screen sizes
 
 ### Laptop / Macbook UI
 
+#### Frontend Side Views
 **HomePage**
 
 ![Macbook-Air-foodzap onrender com](https://github.com/sanjaybaro/foodZap/assets/123923491/1370567b-c388-45eb-89d9-061442c3e6fc)
