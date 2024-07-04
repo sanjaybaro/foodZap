@@ -1,4 +1,4 @@
-![iPhone-13-PRO-MAX-foodzap onrender com (2)](https://github.com/sanjaybaro/foodZap/assets/123923491/d2d23150-978f-4593-9bd8-f5188a2e619f)# foodZap
+# foodZap.
 <div align="center"> 
   <img src="./frontend/src/assets/logo1.png" alt="foodZap.com Logo">
 </div>
