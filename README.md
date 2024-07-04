@@ -94,3 +94,7 @@ foodZap is a Responsive Website for all device screen sizes
 **HomePage**
 
 ![Macbook-Air-foodzap onrender com](https://github.com/sanjaybaro/foodZap/assets/123923491/1370567b-c388-45eb-89d9-061442c3e6fc)
+
+| Explore Menu | Food Items |
+|:-------------------:|:-----:|
+| ![Macbook-Air-foodzap onrender com (1)](https://github.com/sanjaybaro/foodZap/assets/123923491/3f6c6b2e-bce8-4a7c-b899-8602d3a3da7a)| ![Macbook-Air-foodzap onrender com (2)](https://github.com/sanjaybaro/foodZap/assets/123923491/09e663d5-83ad-48ae-91be-f214b12e5d72)|
