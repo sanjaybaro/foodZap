@@ -1,4 +1,4 @@
-# foodZap.
+# foodZap. - food ordering website
 <div align="center"> 
   <img src="./frontend/src/assets/logo1.png" alt="foodZap.com Logo">
 </div>
