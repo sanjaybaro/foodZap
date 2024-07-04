@@ -108,4 +108,10 @@ foodZap is a Responsive Website for all device screen sizes
 |:-------------------:|:-----:|:------:|
 | ![Macbook-Air-foodzap onrender com (6)](https://github.com/sanjaybaro/foodZap/assets/123923491/8772ec39-e26b-424c-9c43-a0bfb50d3d6b) | ![Macbook-Air-foodzap onrender com (7)](https://github.com/sanjaybaro/foodZap/assets/123923491/b51ab774-e27d-407f-8c6d-6ede48bd8779) |![Macbook-Air-foodzap onrender com (9)](https://github.com/sanjaybaro/foodZap/assets/123923491/283d9979-2730-451e-b41b-8e5c6226d097)
 
+#### Admin Side Views
+| Add Items | List Items | Orders |
+|:-------------------:|:-----:|:------:|
+| ![Macbook-Air-foodzap-admin onrender com](https://github.com/sanjaybaro/foodZap/assets/123923491/32e6f0bb-6e66-4303-8e38-698e3f33e736) | ![Macbook-Air-foodzap-admin onrender com (1)](https://github.com/sanjaybaro/foodZap/assets/123923491/63cdade5-3841-4bba-9876-6f9878dbda78) | ![Macbook-Air-foodzap-admin onrender com (2)](https://github.com/sanjaybaro/foodZap/assets/123923491/f51a4024-f360-4b0a-8c57-9bb66e558e97)
+
+
 
