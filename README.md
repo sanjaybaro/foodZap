@@ -68,6 +68,7 @@ FoodZap is a comprehensive full-stack web application designed to revolutionize 
 
 ## Run Locally (getting started)
 
+### For Frontend
 Clone the project
 ```bash
   git clone https://github.com/sanjaybaro/foodZap
@@ -75,6 +76,42 @@ Clone the project
 Go to the project directory
 ```bash
   cd frontend
+```
+Install dependencies
+```bash
+  npm install 
+```
+Start the development server
+```bash
+  npm run dev
+```
+
+### For Backend
+Clone the project
+```bash
+  git clone https://github.com/sanjaybaro/foodZap
+```
+Go to the project directory
+```bash
+  cd backend
+```
+Install dependencies
+```bash
+  npm install 
+```
+Start the backend server
+```bash
+  npm run server
+```
+
+### For Admin
+Clone the project
+```bash
+  git clone https://github.com/sanjaybaro/foodZap
+```
+Go to the project directory
+```bash
+  cd admin
 ```
 Install dependencies
 ```bash
