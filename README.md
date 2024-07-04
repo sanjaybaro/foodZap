@@ -84,7 +84,10 @@ FoodZap is a comprehensive full-stack web application designed to revolutionize 
 1. Clone the repository: `git clone https://github.com/sanjaybaro/foodZap`
 2. Go to the project directory: `cd admin`
 3. Install dependencies: `npm install`
-3. Start the development server: `npm run dev`   
+3. Start the development server: `npm run dev`
+
+## Contact
+For any inquiries or support, you can reach me at [sanjaybaro2017@gmail.com](sanjaybaro2017@gmail.com).
 
 ## UI Screenshots
 foodZap is a Responsive Website for all device screen sizes
