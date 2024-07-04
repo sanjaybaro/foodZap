@@ -44,3 +44,13 @@ FoodZap is a comprehensive full-stack web application designed to revolutionize 
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </div>
+
+## Features
+
+## Features
+
+| Feature                            | Description                                                                                                                                                                                                         |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **User Registration and Login**    | Users can easily register and log in to access personalized features and buy a product.                                                                                                                             |
+| **Admin Registration and Login**   | Admin can register and log in to their accounts to manage their products, orders and view sales details details.                                                                                                    |
+| **Product Buying**                 | Users can browse through various product categories and select preferred product fo the users house.                                                                                                                |
