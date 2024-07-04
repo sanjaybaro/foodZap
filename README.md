@@ -122,11 +122,12 @@ foodZap is a Responsive Website for all device screen sizes
 
 #### Frontend Side Views
 
-| HomePage | Explore Menu | Food Items | Login | Signup | App | Footer | Cart | Place order | My Orders |
-|:-------------------:|:-----:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-| ![iPhone-13-PRO-MAX-foodzap onrender com (1)](https://github.com/sanjaybaro/foodZap/assets/123923491/09cac939-d664-46ea-a4e1-c043666ae55f) | ![iPhone-13-PRO-MAX-foodzap onrender com (2)](https://github.com/sanjaybaro/foodZap/assets/123923491/d8b9b030-998f-4d7f-924d-99df69da8ff2) | ![iPhone-13-PRO-MAX-foodzap onrender com (3)](https://github.com/sanjaybaro/foodZap/assets/123923491/634fd1d9-109e-42e9-b735-ab04b739187b) | ![iPhone-13-PRO-MAX-foodzap onrender com (6)](https://github.com/sanjaybaro/foodZap/assets/123923491/3849ead4-ea63-4d1e-9381-4a38038c124c) | ![iPhone-13-PRO-MAX-foodzap onrender com (7)](https://github.com/sanjaybaro/foodZap/assets/123923491/e2958b61-4645-4d2a-ae84-0e433c38ed58) | ![iPhone-13-PRO-MAX-foodzap onrender com (4)](https://github.com/sanjaybaro/foodZap/assets/123923491/bc162e81-74f6-4910-9a68-2822f95b6619) | ![iPhone-13-PRO-MAX-foodzap onrender com (5)](https://github.com/sanjaybaro/foodZap/assets/123923491/2d79f579-e81a-4a0e-8347-7673cb0fcbb3) | ![iPhone-13-PRO-MAX-foodzap onrender com (8)](https://github.com/sanjaybaro/foodZap/assets/123923491/70985a07-1f24-46df-828a-b2e81e6adba0) | ![iPhone-13-PRO-MAX-foodzap onrender com (9)](https://github.com/sanjaybaro/foodZap/assets/123923491/e45d7807-7690-44d2-bfc4-167ce393a6cb) | ![iPhone-13-PRO-MAX-foodzap onrender com (10)](https://github.com/sanjaybaro/foodZap/assets/123923491/ca6450b9-5498-40cb-8934-a2d93f63f6a2)
+| HomePage | Explore Menu | Food Items | Login | Signup |
+|:-------------------:|:-----:|:------:|:------:|:------:|
+| ![iPhone-13-PRO-MAX-foodzap onrender com (1)](https://github.com/sanjaybaro/foodZap/assets/123923491/09cac939-d664-46ea-a4e1-c043666ae55f) | ![iPhone-13-PRO-MAX-foodzap onrender com (2)](https://github.com/sanjaybaro/foodZap/assets/123923491/d8b9b030-998f-4d7f-924d-99df69da8ff2) | ![iPhone-13-PRO-MAX-foodzap onrender com (3)](https://github.com/sanjaybaro/foodZap/assets/123923491/634fd1d9-109e-42e9-b735-ab04b739187b) | ![iPhone-13-PRO-MAX-foodzap onrender com (6)](https://github.com/sanjaybaro/foodZap/assets/123923491/3849ead4-ea63-4d1e-9381-4a38038c124c) | ![iPhone-13-PRO-MAX-foodzap onrender com (7)](https://github.com/sanjaybaro/foodZap/assets/123923491/e2958b61-4645-4d2a-ae84-0e433c38ed58) 
 
-
-
+|App | Footer | Cart | Place order | My Orders |
+|:------:|:------:|:------:|:------:|:------:|
+ ![iPhone-13-PRO-MAX-foodzap onrender com (4)](https://github.com/sanjaybaro/foodZap/assets/123923491/bc162e81-74f6-4910-9a68-2822f95b6619) | ![iPhone-13-PRO-MAX-foodzap onrender com (5)](https://github.com/sanjaybaro/foodZap/assets/123923491/2d79f579-e81a-4a0e-8347-7673cb0fcbb3) | ![iPhone-13-PRO-MAX-foodzap onrender com (8)](https://github.com/sanjaybaro/foodZap/assets/123923491/70985a07-1f24-46df-828a-b2e81e6adba0) | ![iPhone-13-PRO-MAX-foodzap onrender com (9)](https://github.com/sanjaybaro/foodZap/assets/123923491/e45d7807-7690-44d2-bfc4-167ce393a6cb) | ![iPhone-13-PRO-MAX-foodzap onrender com (10)](https://github.com/sanjaybaro/foodZap/assets/123923491/ca6450b9-5498-40cb-8934-a2d93f63f6a2)
 
 
