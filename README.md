@@ -25,7 +25,7 @@ FoodZap is a comprehensive full-stack web application designed to revolutionize 
 
 ## Tech Stack
 
-## Technology Used for Frontend :
+### Technology Used for Frontend :
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -35,7 +35,7 @@ FoodZap is a comprehensive full-stack web application designed to revolutionize 
    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </div>
 
-## Technology Used for Backend :
+### Technology Used for Backend :
 <div align="center">  
  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
