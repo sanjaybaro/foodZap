@@ -66,4 +66,21 @@ FoodZap is a comprehensive full-stack web application designed to revolutionize 
 | **Order Page**                      | Admin can see the user order details along with items, address, price and quantity also admin can manage the status of order.                          |
 | **Status Manage**                     | Admin can manage the status of order eg: Food Processing, Out for Delivery, Delivered. which also reflects in frontend page.                          |
 
+## Run Locally (getting started)
 
+Clone the project
+```bash
+  git clone https://github.com/sanjaybaro/foodZap
+```
+Go to the project directory
+```bash
+  cd frontend
+```
+Install dependencies
+```bash
+  npm install 
+```
+Start the development server
+```bash
+  npm run dev
+```
