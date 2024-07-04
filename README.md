@@ -47,6 +47,7 @@ FoodZap is a comprehensive full-stack web application designed to revolutionize 
 
 ## Features
 
+### User Features
 |User Feature                        | Description                                                                                             |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------|
 | **User Registration and Login**    | Users can easily register and log in to Order food Item.                                                |
@@ -57,5 +58,12 @@ FoodZap is a comprehensive full-stack web application designed to revolutionize 
 | **Logout Function**                | Logout functionality also available for each user.|
 | **Payment Gateway**                | Stripe payment gateway for credit / debit card payment with 3d auth secure. use the dummy card details from this link (also user can use this dummy card details for quick 4000002500003155") : <a href="https://docs.stripe.com/testing#regulatory-cards" target="_blank">Stripe Dummy Card</a> .|
                                      
+### Admin Features
+|User Feature                        | Description                                                                                             |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------|
+| **Add Items Page**    | Admin can add food items with food details inlcuding category & image upload via multer logic which also reflected in Databasse.                                                |
+| **List Items Page**                   | Admin can see the list of food items added and also can be removed from the list items which also reflected in Databasse.       |                |
+| **Order Page**                      | Admin can see the user order details along with items, address, price and qunatity also admin can manage the status of order.                          |
+| **Status Manage**                     | Admin can manage the status of order eg: Food Processing, Out for Delivery, Delivered. which also reflects in frontend page.                          |
 
 
