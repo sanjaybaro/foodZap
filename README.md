@@ -130,4 +130,8 @@ foodZap is a Responsive Website for all device screen sizes
 |:--:|:------:|:----:|:-----------:|:---------:|
  ![iPhone-13-PRO-MAX-foodzap onrender com (4)](https://github.com/sanjaybaro/foodZap/assets/123923491/bc162e81-74f6-4910-9a68-2822f95b6619) | ![iPhone-13-PRO-MAX-foodzap onrender com (5)](https://github.com/sanjaybaro/foodZap/assets/123923491/2d79f579-e81a-4a0e-8347-7673cb0fcbb3) | ![iPhone-13-PRO-MAX-foodzap onrender com (8)](https://github.com/sanjaybaro/foodZap/assets/123923491/70985a07-1f24-46df-828a-b2e81e6adba0) | ![iPhone-13-PRO-MAX-foodzap onrender com (9)](https://github.com/sanjaybaro/foodZap/assets/123923491/e45d7807-7690-44d2-bfc4-167ce393a6cb) | ![iPhone-13-PRO-MAX-foodzap onrender com (10)](https://github.com/sanjaybaro/foodZap/assets/123923491/ca6450b9-5498-40cb-8934-a2d93f63f6a2)
 
+#### Admin Side Views
+| Add Items | List Items | Orders |
+|:-------------------:|:-----:|:------:|
+|![iPhone-13-PRO-MAX-foodzap-admin onrender com](https://github.com/sanjaybaro/foodZap/assets/123923491/8b705c4a-74ce-445a-8003-25d511079045) |![iPhone-13-PRO-MAX-foodzap-admin onrender com (1)](https://github.com/sanjaybaro/foodZap/assets/123923491/26e8857a-1fea-4564-bcce-4ef417174fc7) |![iPhone-13-PRO-MAX-foodzap-admin onrender com (2)](https://github.com/sanjaybaro/foodZap/assets/123923491/329a91ff-fd6d-4844-a9af-24518265bd1b)
 
