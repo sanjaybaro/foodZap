@@ -123,7 +123,7 @@ foodZap is a Responsive Website for all device screen sizes
 #### Frontend Side Views
 
 | HomePage | Explore Menu | Food Items | Login | Signup |
-|:--------:|:-----:|:------:|:------:|:------:|
+|:--------:|:------------:|:----------:|:-----:|:------:|
 | ![iPhone-13-PRO-MAX-foodzap onrender com (1)](https://github.com/sanjaybaro/foodZap/assets/123923491/09cac939-d664-46ea-a4e1-c043666ae55f) | ![iPhone-13-PRO-MAX-foodzap onrender com (2)](https://github.com/sanjaybaro/foodZap/assets/123923491/d8b9b030-998f-4d7f-924d-99df69da8ff2) | ![iPhone-13-PRO-MAX-foodzap onrender com (3)](https://github.com/sanjaybaro/foodZap/assets/123923491/634fd1d9-109e-42e9-b735-ab04b739187b) | ![iPhone-13-PRO-MAX-foodzap onrender com (6)](https://github.com/sanjaybaro/foodZap/assets/123923491/3849ead4-ea63-4d1e-9381-4a38038c124c) | ![iPhone-13-PRO-MAX-foodzap onrender com (7)](https://github.com/sanjaybaro/foodZap/assets/123923491/e2958b61-4645-4d2a-ae84-0e433c38ed58) 
 
 |App | Footer | Cart | Place order | My Orders |
