@@ -48,11 +48,11 @@ FoodZap is a comprehensive full-stack web application designed to revolutionize 
 ## Features
 
 |User Feature                            | Description                                                                                                                                                                                                         |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **User Registration and Login**    | Users can easily register and log in to Order food Item.                                                                                                                             |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **User Registration and Login**    | Users can easily register and log in to Order food Item.                                                                                                                     |
 | **Explore Menu**   | User can explore the wide range of food categories with each categories have different food item.                                                                                                    |
 | **Cart Page**                 | Users can Manage Order in the cart page or item can be removed also from cart.                                                                                                                |
-| **Order Page**          | User can order by filling delivery information in a form and can make payment.|
+| **Order Page**          | User can order by filling delivery information in a form and can make payment.
 
 | **My Order Page**       | User can see the all item Order for that particular user that logged in and also Track the Status of the food Item.|
 
