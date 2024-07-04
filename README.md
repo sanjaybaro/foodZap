@@ -85,3 +85,16 @@ FoodZap is a comprehensive full-stack web application designed to revolutionize 
 2. Go to the project directory: `cd admin`
 3. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`   
+
+## UI Screenshots
+foodZap is a Responsive Website for all device screen sizes
+
+### Laptop / Macbook UI
+
+**HomePage**
+
+![Macbook-Air-foodzap onrender com](https://github.com/sanjaybaro/foodZap/assets/123923491/1370567b-c388-45eb-89d9-061442c3e6fc)
+
+| Explore Menu | Food Items |
+|:-------------------:|:-----:|
+| ![Macbook-Air-foodzap onrender com (1)](https://github.com/sanjaybaro/foodZap/assets/123923491/3f6c6b2e-bce8-4a7c-b899-8602d3a3da7a)| ![Macbook-Air-foodzap onrender com (2)](https://github.com/sanjaybaro/foodZap/assets/123923491/09e663d5-83ad-48ae-91be-f214b12e5d72)|
