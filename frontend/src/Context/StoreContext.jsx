@@ -10,6 +10,7 @@ const StoreContextProvider = ({ children }) => {
   const [cartItems, setCartItems] = useState({});
   const [token, setToken] = useState("");
   const [food_list, setFoodList] = useState([]);
+  const [loading, setLoading] = useState(true);
 
   const addToCart = async (itemId) => {
     if (!cartItems[itemId]) {
@@ -54,6 +55,7 @@ const StoreContextProvider = ({ children }) => {
   const fetchFoodList = async () => {
     const response = await axios.get(url + "/food/list");
     setFoodList(response.data.data);
+    setLoading(false);
   };
 
   //load the cart data even pasge was refresh
@@ -87,6 +89,7 @@ const StoreContextProvider = ({ children }) => {
     getTotalCartAmount,
     token,
     setToken,
+    loading,
   };
 
   return (
