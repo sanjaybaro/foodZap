@@ -11,7 +11,9 @@ const FoodDisplay = ({ category }) => {
   if (loading) {
     return (
       <>
-        <h1 style={{ textAlign: "center" }}>Top dishes near you loading...</h1>
+        <h1 style={{ textAlign: "center", fontFamily: "Outfit" }}>
+          Top dishes near you loading...
+        </h1>
         <div style={{ display: "flex", justifyContent: "center" }}>
           <Oval
             visible={true}
